@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wysa-Assignment/static/css/main.c0a07097.css",
+    "main.js": "/Wysa-Assignment/static/js/main.fa285c33.js",
+    "index.html": "/Wysa-Assignment/index.html",
+    "main.c0a07097.css.map": "/Wysa-Assignment/static/css/main.c0a07097.css.map",
+    "main.fa285c33.js.map": "/Wysa-Assignment/static/js/main.fa285c33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a07097.css",
+    "static/js/main.fa285c33.js"
+  ]
+}
